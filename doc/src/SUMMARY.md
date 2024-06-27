@@ -15,3 +15,4 @@
 - [Challenges](./challenges.md)
   - [Core Transmutation](./challenges/0001-core-transmutation.md)
   - [Memory safety of core intrinsics](./challenges/0002-intrinsics-memory.md)
+  - [Memory safety of the `alloc::collections::btree::node` module](./challenges/0004-btree-node.md)
