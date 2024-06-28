@@ -15,3 +15,4 @@
 - [Challenges](./challenges.md)
   - [Core Transmutation](./challenges/0001-core-transmutation.md)
   - [Memory safety of core intrinsics](./challenges/0002-intrinsics-memory.md)
+  - [Pointer Arithmetic](./challenges/0003-pointer-arithmentic.md)
